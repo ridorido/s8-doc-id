@@ -6,4 +6,5 @@
 * [Bab 3](member.md)
 * [Bab 4](circulation.md)
 * [Bab 5](stocktake.md)
+* Bab 6
 
