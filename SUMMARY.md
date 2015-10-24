@@ -3,5 +3,4 @@
 * [Introduction](README.md)
 * [Bab 1](instalasi.md)
 * [Bab 2](biblio.md)
-* [Bab 3](bab_3.md)
 
