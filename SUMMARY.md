@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](readme.md)
+* [Introduction](readmemd.md)
    * Intro
 * [Bab 1](instalasi.md)
 
