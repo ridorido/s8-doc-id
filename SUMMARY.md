@@ -13,5 +13,5 @@
 * [Bab 10](opac.md)
 * [Bab 11](absensi.md)
 * [Bab 12](ucs.md)
-* Bab 13
+* [Bab 13](tipstrik.md)
 
