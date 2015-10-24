@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](intro.md)
 * [Bab 1](instalasi.md)
 
