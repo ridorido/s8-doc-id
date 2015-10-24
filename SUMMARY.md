@@ -7,5 +7,5 @@
 * [Bab 4](circulation.md)
 * [Bab 5](stocktake.md)
 * [Bab 6](reporting.md)
-* Bab 7
+* [Bab 7](serial_control.md)
 
