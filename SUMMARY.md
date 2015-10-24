@@ -11,5 +11,5 @@
 * [Bab 8](system.md)
 * [Bab 9](masterfile.md)
 * [Bab 10](opac.md)
-* Bab 11
+* [Bab 11](absensi.md)
 
